@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
         "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
-        "processId": 4205,
+        "processId": 2924,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -13,6 +13,60 @@
             "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
             "processId": 4205,
             "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 3453,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 2895,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 3420,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 3670,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 3866,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 4050,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 4244,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 2924,
+            "exited": false
+        },
+        {
+            "deviceId": "375955424e443498",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 28781,
+            "exited": true
         }
     ],
     "m_Tags": {
