@@ -194,7 +194,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1600, y: 900}
+  m_ReferenceResolution: {x: 1440, y: 3040}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -230,6 +230,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1114564745}
     m_Modifications:
+    - target: {fileID: 8379980458808668105, guid: 0e64b05051965df4a9c2bd82ca4397b8, type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 8379980459387265731, guid: 0e64b05051965df4a9c2bd82ca4397b8, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -260,11 +264,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8379980459387265731, guid: 0e64b05051965df4a9c2bd82ca4397b8, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 160
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 8379980459387265731, guid: 0e64b05051965df4a9c2bd82ca4397b8, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 30
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379980459387265731, guid: 0e64b05051965df4a9c2bd82ca4397b8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379980459387265731, guid: 0e64b05051965df4a9c2bd82ca4397b8, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8379980459387265731, guid: 0e64b05051965df4a9c2bd82ca4397b8, type: 3}
       propertyPath: m_LocalPosition.x

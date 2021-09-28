@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
         "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
-        "processId": 2924,
+        "processId": 3176,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -60,6 +60,12 @@
             "deviceId": "emulator-5554",
             "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
             "processId": 2924,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.lucaskrespi.GameConsoleDev_13208_LAB1_LucasKrespi",
+            "processId": 3176,
             "exited": false
         },
         {
