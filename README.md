@@ -1,3 +1,3 @@
-# GameConsoleDev_13208_LAB1_LucasKrespi
+# GameConsoleDev_13208_LAB3_LucasKrespi
 
-This is Lab1 for mobile dev fall 2021
+This is Lab3 for mobile dev fall 2021
